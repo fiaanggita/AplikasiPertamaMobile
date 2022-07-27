@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MyApplication1/app/src/main/res/layout/activity_detail.xml" value="0.36666666666666664" />
+        <entry key="..\:/MyApplication1/app/src/main/res/layout/activity_intent.xml" value="0.35260416666666666" />
+        <entry key="..\:/MyApplication1/app/src/main/res/layout/activity_linear2.xml" value="0.5" />
+        <entry key="..\:/MyApplication1/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/MyApplication1/app/src/main/res/layout/activity_relative.xml" value="0.33" />
+        <entry key="..\:/MyApplication1/app/src/main/res/layout/layout_gambar.xml" value="0.36666666666666664" />
+        <entry key="..\:/MyApplication1/app/src/main/res/layout/layout_gambar1.xml" value="0.365625" />
+        <entry key="..\:/MyApplication1/app/src/main/res/layout/layout_picture.xml" value="0.36666666666666664" />
+        <entry key="..\:/MyApplication1/app/src/main/res/layout/layout_picture3.xml" value="0.36666666666666664" />
+        <entry key="..\:/MyApplication1/app/src/main/res/layout/layout_terserah.xml" value="0.28014505893019037" />
+        <entry key="..\:/MyApplication1/app/src/main/res/layout/layout_terserah2.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

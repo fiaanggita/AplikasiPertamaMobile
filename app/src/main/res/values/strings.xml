@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application 1</string>
+    <string name="travel_travel">Travel Travel</string>
+    <string name="travel_travel_travel">Travel Travel Travel</string>
+    <string name="travel">Travel</string>
+    <string name="destination_guide">Destination Guide</string>
+    <string name="london">London</string>
+    <string name="crush_on_you">Crush on you!</string>
+</resources>

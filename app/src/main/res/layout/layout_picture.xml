@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:paddingVertical="16dp"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_tourr3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/travel_travel_travel"
+        style="@style/Title"/>
+
+    <HorizontalScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <include
+                android:id="@+id/include_tour1"
+                layout="@layout/layout_picture3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            <include
+                android:id="@+id/include_tour2"
+                layout="@layout/layout_picture3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            <include
+                android:id="@+id/include_tour3"
+                layout="@layout/layout_picture3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            <include
+                android:id="@+id/include_tour4"
+                layout="@layout/layout_picture3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+    </HorizontalScrollView>
+
+</LinearLayout>
